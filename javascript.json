@@ -1,5 +1,5 @@
 {
-    "navaigation": {
+    "navigation": {
         "prefix": "!",
         "body": [
             "$(document).ready(function(){",
